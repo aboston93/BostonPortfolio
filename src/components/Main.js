@@ -31,7 +31,9 @@ class Main extends React.Component {
           <h2 className="major">Intro</h2>
           <span className="image main">
             <img src={pic01} alt="" />
-          </span>
+            </span>
+          <button>Linked in
+          </button>
           <p>
           Hello my name is Anthony Boston I am developer located in the Atlanta area 
           I am a graduate of the CodeBridge program at Per Scholas and the Web Development Immersive at General Assembly here in Atlanta.
@@ -87,13 +89,11 @@ class Main extends React.Component {
             <img src={pic03} alt="" />
           </span>
           <p>
-            Lorem ipsum dolor sit amet, consectetur et adipiscing elit. Praesent
-            eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam
-            erat volutpat. Praesent urna nisi, fringila lorem et vehicula
-            lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices.
-            Aliquam libero et malesuada fames ac ante ipsum primis in faucibus.
-            Cras viverra ligula sit amet ex mollis mattis lorem ipsum dolor sit
-            amet.
+          I was born in Chattanooga and raised in Atlanta Georgia. 
+          I grduated from parkview high were i took ap computer science. 
+          We did most our leaning in java after that i went to the University of tennesee Chattanooga to continue my learning and play college football.
+           I did some self learning online using both udemy and code academy while i worked multiple jobs.
+           I than was accepted in to the per scholas code bridge program where i studied web devlopemnt.
           </p>
           {close}
         </article>
