@@ -32,10 +32,10 @@ class Main extends React.Component {
           <span className="image main">
             <img src={pic01} alt="" />
             </span>
-          <button>Linked in
+          <button>Linkedin
           </button>
           <p>
-          Hello my name is Anthony Boston I am developer located in the Atlanta area 
+          Hello my name is Anthony Boston I am a developer located in the Atlanta area 
           I am a graduate of the CodeBridge program at Per Scholas and the Web Development Immersive at General Assembly here in Atlanta.
            The opportunity to learn to program has been a dream come true for me. As a former, 
            I was ecstatic to learn the similarities in diagnosing opponents tape and debugging code As a working professional, 
