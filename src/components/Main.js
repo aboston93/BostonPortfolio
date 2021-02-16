@@ -58,21 +58,14 @@ class Main extends React.Component {
           <span className="image main">
             <img src={pic02} alt="" />
           </span>
-          <p>
-            Adipiscing magna sed dolor elit. Praesent eleifend dignissim arcu,
-            at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent
-            urna nisi, fringila lorem et vehicula lacinia quam. Integer
-            sollicitudin mauris nec lorem luctus ultrices.
-          </p>
-          <p>
-            Nullam et orci eu lorem consequat tincidunt vivamus et sagittis
-            libero. Mauris aliquet magna magna sed nunc rhoncus pharetra.
-            Pellentesque condimentum sem. In efficitur ligula tate urna.
-            Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor.
-            Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis
-            libero. Mauris aliquet magna magna sed nunc rhoncus amet feugiat
-            tempus.
-          </p>
+          
+          <ul role="presentation" class="slideshow">
+    <li><img src="http://newsbote.com/wp-content/uploads/2011/04/wolverine-origins-jackman-300x200.jpg" width="300" height="200" alt="Image test"/></li>
+    <li><img src="http://www.ainokavantera.com/blog/wp-content/uploads/2008/09/goya4-300x200.jpg" width="300" height="200" alt="Image test" /></li>
+    <li><img src="https://simoncpage.co.uk/blog/wp-content/uploads/2008/08/textart23-300x200.jpg" width="300" height="200" alt="Image test" /></li>
+    <li><img src="http://www.ps3attitude.com/wp-content/uploads/2009/01/crystal-ball-300x200.jpg" width="300" height="200" alt="Image test"/></li>
+</ul>
+          
           {close}
         </article>
 
